@@ -1,4 +1,3 @@
----
 
 # StudySync Webpage
 
@@ -72,4 +71,3 @@ If you would like to contribute to improving the webpage:
 5. Create a pull request.
 
 
----
